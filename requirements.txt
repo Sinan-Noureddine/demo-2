@@ -56,7 +56,7 @@ docutils==0.14
 dogpile.cache==0.7.1
 entrypoints==0.3
 et-xmlfile==1.0.1
-eventlet==0.25.0
+eventlet==0.31.0
 extras==1.0.0
 fastcache==1.1.0
 fasteners==0.15
